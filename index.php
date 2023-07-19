@@ -59,10 +59,10 @@
 <body>
   <div class="container">
     <div class="xbox">
-      <img class="logo" src="excelllogo.png" alt="Xbox Logo">
+      <img class="logo" src="excellsetup/img/excelllogo.png" alt="Xbox Logo">
       <h1>Bem-vindo a EXCELL</h1>
       <p>Conecte-se!</p>
-      <a class="button" href="base.php">Começar</a>
+      <a class="button" href="excellsetup/base.php">Começar</a>
     </div>
   </div>
 </body>
