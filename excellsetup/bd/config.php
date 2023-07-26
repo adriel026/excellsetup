@@ -3,7 +3,7 @@
 
 
 // Configurações do banco de dados
-$dbHost = 'localhost';
+$dbHost = 'github';
 $dbUsername = 'root';
 $dbPassword = '';
 $dbName = 'excelldatabase';
